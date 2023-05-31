@@ -1,0 +1,1 @@
+Hello there, we are group that specializes in Coding Open Sourced Code, if you were wondering. We done many small to medium projects like freqtrade_installer and Economy. We are still developing these projects as we speak and we hope that you ever want to constribute to please fork our projects and improve it!
